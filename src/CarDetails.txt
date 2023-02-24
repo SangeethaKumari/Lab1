@@ -1,0 +1,13 @@
+    cars[0] = new Cars("Toyota", "Highlander","4Y1SL65848Z411439");
+		cars[1] = new Cars("Toyota", "Prius","1B7HF16Y8TS510206");
+		cars[2] = new Cars("Honda", "Pilot","5GZCZ23D13S847842");
+		cars[3] = new Cars("Nissan", "PathFinder","2G1WF55EXY9103575");
+		cars[4] = new Cars("Honda", "Civic","JTLKE50E191068256");
+		cars[5] = new Cars("Kia", "Rio", "KM8JU3AC6DU588418");
+		cars[6] = new Cars("Chevrolet","Bolt","R456KE50E191068256");
+		cars[7] = new Cars("Ford", "Fusion","T546E50E191068256");
+		cars[8] = new Cars("Chevrolet", "WV2YB0257EH008533","Colrado");
+		cars[9] = new Cars("Ford", "Escape", "2C3CCAFJ2CH801561");
+		cars[10] = new Cars("Fiat", "Fiat 500e","1B7GG23Y1NS526835");
+		cars[11] = new Cars("Fiat", "Fiat 500x","4JGBF71E18A429191");
+
